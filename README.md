@@ -1,19 +1,24 @@
-<!-- ===================== HEADER ===================== -->
+
+<!-- ===================== STABLE ANIMATED HEADER ===================== -->
+
 <h1 align="center">
-  Hi 👋, I'm Prakhar Verma
+  Hi 👋, I'm <span style="color:#7c5cff;">Prakhar Verma</span>
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;AI+%26+ML+Enthusiast;Open+Source+Learner;Future+AI+Engineer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;AI+%26+ML+Enthusiast;Generative+AI+%7C+LLMs+%7C+Prompt+Engineering;Open+Source+Learner;Future+AI+Engineer+from+India+🇮🇳" />
+</p>
+
+<p align="center">
+  <!-- Floating Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,github,linux&perline=9" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prakhar9044-code&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+<hr/>
 
 ## 🚀 About Me  
 
@@ -56,23 +61,39 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakhar9044-code&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar9044-code&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=prakhar9044-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=prakhar9044-code&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar9044-code&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar9044-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
 </p>
 
 ---
-
-## 📈 Contribution Graph  
+## 📊 Advanced GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar9044-code&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakhar9044-code&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakhar9044-code&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prakhar9044-code&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakhar9044-code&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakhar9044-code&theme=tokyonight&utcOffset=5.5" />
+</p>
+
 
 ## 🧩 Featured Projects  
 
