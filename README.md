@@ -59,26 +59,6 @@
 ---
 
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=prakhar9044-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=prakhar9044-code&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar9044-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-</p>
-
----
 ## 📊 Advanced GitHub Insights
 
 <p align="center">
