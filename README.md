@@ -58,6 +58,13 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prakhar9044-code/prakhar9044-code/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
