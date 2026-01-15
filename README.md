@@ -1,7 +1,7 @@
 
 <!-- ===================== STABLE ANIMATED HEADER ===================== -->
 
-<h1 align="center">
+ <h1 align="center">
   Hi 👋, I'm <span style="color:#7c5cff;">Prakhar Verma</span>
 </h1>
 
@@ -57,12 +57,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prakhar9044-code/prakhar9044-code/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 ## 📊 GitHub Analytics  
