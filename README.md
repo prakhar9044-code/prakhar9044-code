@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--              CINEMATIC HEADER — VENOM STYLE                   -->
+<!--                  CUSTOM BANNER — MATRIX STYLE                 -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0533,60:2d0a6e,80:7C5CFF,100:00d4ff&height=300&section=header&text=PRAKHAR%20VERMA&fontSize=88&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FGenAI%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descAlignY=73&descSize=18&descColor=ffffffcc&stroke=7C5CFF&strokeWidth=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/prakhar9044-code/prakhar9044-code/main/assets/banner.svg" width="100%" alt="Prakhar Verma Banner"/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                           -->
@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://github.com/prakhar9044-code">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=7C5CFF&center=true&vCenter=true&repeat=true&width=780&height=55&lines=%E2%9A%A1+B.Tech+CSE+%40+LPU+%7C+Batch+2025-2029;%F0%9F%9A%80+Full-Stack+Dev+%7C+React+%2B+Node+%2B+Supabase;%F0%9F%A4%96+AI+%2F+GenAI+%7C+LLMs+%2B+RAG+%2B+Prompt+Eng.;%F0%9F%94%90+Cybersecurity+%7C+CTI+%2B+CTH+%2B+Kali+Linux;%F0%9F%8F%86+5x+National+Hackathon+Competitor;%F0%9F%8C%8F+Building+SaaS+Products+from+India;%F0%9F%92%A1+Event+Coordinator+%40+Coding+Blocks;%F0%9F%94%AC+Technical+Lead+%7C+AI+Expo+%2726+%26+InnoTek+%2726" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=780&height=55&lines=%E2%9A%A1+B.Tech+CSE+%40+LPU+%7C+Batch+2025-2029;%F0%9F%9A%80+Full-Stack+Dev+%7C+React+%2B+Node+%2B+Supabase;%F0%9F%A4%96+AI+%2F+GenAI+%7C+LLMs+%2B+RAG+%2B+Prompt+Eng.;%F0%9F%94%90+Cybersecurity+%7C+CTI+%2B+CTH+%2B+Kali+Linux;%F0%9F%8F%86+5x+National+Hackathon+Competitor;%F0%9F%8C%8F+Building+SaaS+Products+from+India;%F0%9F%92%A1+Event+Coordinator+%40+Coding+Blocks;%F0%9F%94%AC+Technical+Lead+%7C+AI+Expo+%2726+%26+InnoTek+%2726" alt="Typing Animation" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/prakhar9044-code">
-  <img src="https://komarev.com/ghpvc/?username=prakhar9044-code&label=Profile+Views&color=7c5cff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=prakhar9044-code&label=Profile+Views&color=00ff41&style=for-the-badge" alt="Profile Views"/>
 </a>
 <a href="https://www.linkedin.com/in/prakharai1212">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -42,10 +42,10 @@
 
 <!-- Live status pills -->
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Work-2ea44f?style=flat-square"/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Degree-B.Tech%20CSE%20AI%20%26%20ML-7c5cff?style=flat-square"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Degree-B.Tech%20CSE%20AI%20%26%20ML-00ff41?style=flat-square"/>
 <img src="https://img.shields.io/badge/%F0%9F%8F%AB%20University-LPU%202025--2029-00d4ff?style=flat-square"/>
 <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20Location-Jalandhar%2C%20Punjab-orange?style=flat-square"/>
-<img src="https://img.shields.io/github/commit-activity/m/prakhar9044-code/prakhar9044-code?label=%F0%9F%94%A5%20Commits%2FMonth&color=7c5cff&style=flat-square"/>
+<img src="https://img.shields.io/github/commit-activity/m/prakhar9044-code/prakhar9044-code?label=%F0%9F%94%A5%20Commits%2FMonth&color=00ff41&style=flat-square"/>
 <img src="https://img.shields.io/badge/%F0%9F%9B%A0%20Projects-5%20Live%20SaaS-00d4ff?style=flat-square"/>
 <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Hackathons-5%20National-FF6B35?style=flat-square"/>
 
@@ -465,14 +465,14 @@ A prototype academic platform for LPU students — resource sharing, course mana
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar9044-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c5cff&ring=7c5cff&fire=FF6B35&currStreakLabel=7c5cff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=prakhar9044-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c5cff&icon_color=7c5cff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar9044-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=FF6B35&currStreakLabel=00ff41" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prakhar9044-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar9044-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c5cff&text_color=c9d1d9&langs_count=8" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar9044-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="35%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakhar9044-code&theme=tokyonight&utcOffset=5.5" width="35%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakhar9044-code&theme=tokyonight" width="25%"/>
 
@@ -493,7 +493,7 @@ A prototype academic platform for LPU students — resource sharing, course mana
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar9044-code&bg_color=0D1117&color=7c5cff&line=7c5cff&point=FF6B35&area=true&hide_border=true&area_color=7c5cff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar9044-code&bg_color=0D1117&color=00ff41&line=00ff41&point=FF6B35&area=true&hide_border=true&area_color=00ff41" width="100%"/>
 </div>
 
 ### 🐍 Contribution Snake
@@ -666,7 +666,7 @@ A prototype academic platform for LPU students — resource sharing, course mana
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:7C5CFF,100:0d1117&height=160&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work&fontSize=16&fontColor=ffffffaa&animation=fadeIn&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:006D32,100:00FF41&height=120&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work&fontSize=15&fontColor=ffffffaa&animation=fadeIn&reversal=true" width="100%"/>
 
 *B.Tech CSE @ LPU · Full-Stack · AI/GenAI · Cybersecurity · Jalandhar, India 🇮🇳*
 
