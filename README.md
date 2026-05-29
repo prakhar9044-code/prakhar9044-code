@@ -496,7 +496,9 @@ A prototype academic platform for LPU students — resource sharing, course mana
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar9044-code&bg_color=0D1117&color=00ff41&line=00ff41&point=FF6B35&area=true&hide_border=true&area_color=00ff41" width="100%"/>
 </div>
 
-### 🐍 Contribution Snake
+### Contribution Graph
+
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=prakhar9044-code&theme=dracula)
 
 <div align="center">
   <picture>
