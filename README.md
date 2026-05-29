@@ -498,15 +498,9 @@ A prototype academic platform for LPU students — resource sharing, course mana
 
 ### Contribution Graph
 
+<center>
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=prakhar9044-code&theme=dracula)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakhar9044-code/prakhar9044-code/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakhar9044-code/prakhar9044-code/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/prakhar9044-code/prakhar9044-code/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
+</center>
 
 ---
 
