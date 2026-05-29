@@ -498,9 +498,9 @@ A prototype academic platform for LPU students — resource sharing, course mana
 
 ### Contribution Graph
 
-<center>
+<div align="center">
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=prakhar9044-code&theme=dracula)
-</center>
+</div>
 
 ---
 
