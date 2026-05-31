@@ -55,7 +55,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e0e0e&height=2&width=100%"/>
 
-### `// verified credentials`
+
 
 ## 🏅 Certifications & Badges
 
