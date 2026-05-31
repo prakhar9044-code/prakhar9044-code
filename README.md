@@ -53,60 +53,50 @@
 
 <div align="center">
 
-### ✦ VERIFIED CREDENTIALS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e0e0e&height=2&width=100%"/>
 
-## Certifications & Badges
+### `// verified credentials`
+
+## 🏅 Certifications & Badges
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <a href="https://www.credly.com/badges/fc21f80c-223c-4ac1-acf6-e7a771019b82/public_url" target="_blank">
-        <img src="./badges/cybersecurity-fundamentals.png" width="110" alt="IBM Cybersecurity Fundamentals"/>
-        <br><br>
-        <b>Cybersecurity Fundamentals</b>
-        <br>
-        <sub>🏢 IBM SkillsBuild</sub>
-        <br>
-        <img src="https://img.shields.io/badge/Security-FF6B9D?style=flat-square&logoColor=white"/>
+    <td align="center" width="170" style="padding: 16px;">
+      <a href="https://www.credly.com/badges/fc21f80c-223c-4ac1-acf6-e7a771019b82/public_url">
+        <img src="./badges/cybersecurity-fundamentals.png" width="100" alt="IBM Cybersecurity Fundamentals"/><br/><br/>
+        <img src="https://img.shields.io/badge/01-SECURITY-D4537E?style=flat-square&labelColor=0e0e0e&color=D4537E"/>
       </a>
+      <br/><b>Cybersecurity Fundamentals</b><br/>
+      <sub>IBM SkillsBuild</sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://www.credly.com/earner/earned/badge/a81f0a61-a474-42ab-9d88-178ecbedc0b3" target="_blank">
-        <img src="./badges/ai-upskilling-certificate-technical-foundations.png" width="110" alt="AI Upskilling Certificate"/>
-        <br><br>
-        <b>AI Upskilling Certificate</b>
-        <br>
-        <sub>🏢 Qualcomm Academy</sub>
-        <br>
-        <img src="https://img.shields.io/badge/AI%20%2F%20ML-378ADD?style=flat-square&logoColor=white"/>
+    <td align="center" width="170" style="padding: 16px;">
+      <a href="https://www.credly.com/earner/earned/badge/a81f0a61-a474-42ab-9d88-178ecbedc0b3">
+        <img src="./badges/ai-upskilling-certificate-technical-foundations.png" width="100" alt="AI Upskilling Certificate"/><br/><br/>
+        <img src="https://img.shields.io/badge/02-AI%20%2F%20ML-378ADD?style=flat-square&labelColor=0e0e0e&color=378ADD"/>
       </a>
+      <br/><b>AI Upskilling Certificate</b><br/>
+      <sub>Qualcomm Academy</sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://www.credly.com/earner/earned/badge/cd49251b-f877-44ae-8363-c688a4d7fc0a" target="_blank">
-        <img src="./badges/aws-educate-introduction-to-generative-ai-training-.png" width="110" alt="AWS Generative AI"/>
-        <br><br>
-        <b>Intro to Generative AI</b>
-        <br>
-        <sub>☁️ AWS Educate</sub>
-        <br>
-        <img src="https://img.shields.io/badge/Cloud-EF9F27?style=flat-square&logoColor=white"/>
+    <td align="center" width="170" style="padding: 16px;">
+      <a href="https://www.credly.com/earner/earned/badge/cd49251b-f877-44ae-8363-c688a4d7fc0a">
+        <img src="./badges/aws-educate-introduction-to-generative-ai-training-.png" width="100" alt="AWS Generative AI"/><br/><br/>
+        <img src="https://img.shields.io/badge/03-CLOUD-EF9F27?style=flat-square&labelColor=0e0e0e&color=EF9F27"/>
       </a>
+      <br/><b>Intro to Generative AI</b><br/>
+      <sub>AWS Educate</sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A04A17CEE858F4A8CFD5CB45ABBC63AABDBA1CED20C1D2309DFD5432D6455385" target="_blank">
-        <img src="./badges/OCI25DSOCP.jpg" width="110" alt="Oracle OCI Data Science Professional"/>
-        <br><br>
-        <b>OCI Data Science Professional</b>
-        <br>
-        <sub>🔬 Oracle Certified</sub>
-        <br>
-        <img src="https://img.shields.io/badge/Data%20Science-1D9E75?style=flat-square&logoColor=white"/>
+    <td align="center" width="170" style="padding: 16px;">
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A04A17CEE858F4A8CFD5CB45ABBC63AABDBA1CED20C1D2309DFD5432D6455385">
+        <img src="./badges/OCI25DSOCP.jpg" width="100" alt="Oracle OCI Data Science"/><br/><br/>
+        <img src="https://img.shields.io/badge/04-DATA%20SCIENCE-E24B4A?style=flat-square&labelColor=0e0e0e&color=E24B4A"/>
       </a>
+      <br/><b>OCI Data Science Professional</b><br/>
+      <sub>Oracle Certified</sub>
     </td>
   </tr>
 </table>
 
-![](https://img.shields.io/badge/●%204%20Active%20Certifications-verified%20via%20Credly%20%26%20Oracle-2C2C2A?style=flat-square)
+![](https://img.shields.io/badge/●%204%20ACTIVE-VERIFIED%20VIA%20CREDLY%20%26%20ORACLE-22c55e?style=flat-square&labelColor=0e0e0e)
 
 </div>
 <!-- ══════════════════════════════════════════════════════════════ -->
