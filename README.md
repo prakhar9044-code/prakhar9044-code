@@ -52,7 +52,44 @@
 </div>
 
 ---
+## 🏅 Certifications & Badges
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/fc21f80c-223c-4ac1-acf6-e7a771019b82/public_url" target="_blank">
+        <img src="./badges/cybersecurity-fundamentals.png" width="150" alt="IBM Cybersecurity Fundamentals"/>
+      </a>
+      <br><b>Cybersecurity Fundamentals</b>
+      <br><sub>IBM SkillsBuild</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/a81f0a61-a474-42ab-9d88-178ecbedc0b3" target="_blank">
+        <img src="./badges/ai-upskilling-certificate-technical-foundations.png" width="150" alt="AI Upskilling Certificate"/>
+      </a>
+      <br><b>AI Upskilling Certificate</b>
+      <br><sub>Qualcomm Academy</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/cd49251b-f877-44ae-8363-c688a4d7fc0a" target="_blank">
+        <img src="./badges/aws-educate-introduction-to-generative-ai-training-.png" width="150" alt="AWS Educate Gen AI"/>
+      </a>
+      <br><b>Intro to Generative AI</b>
+      <br><sub>AWS Educate</sub>
+    </td>
+    <td align="center">
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A04A17CEE858F4A8CFD5CB45ABBC63AABDBA1CED20C1D2309DFD5432D6455385" target="_blank">
+        <img src="./badges/OCI25DSOCP.jpg" width="150" alt="Oracle OCI Data Science"/>
+      </a>
+      <br><b>OCI Data Science</b>
+      <br><sub>Oracle Certified Professional</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                    NAVIGATION BAR                             -->
 <!-- ══════════════════════════════════════════════════════════════ -->
